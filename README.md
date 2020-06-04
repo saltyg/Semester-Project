@@ -16,6 +16,7 @@ This project explores the possibilities to build sample-less model-based AQP met
 
 `stratified_sampling.py`: Generation of a stratified sample given a dataset and its corresponding QCS. 
 
+`Sampling_based (folder)`: Scala code for the implmentation of stratified sampling on TPC-H queries. 
 
 ## Main Python packages required
 Scipy, Numpy, PySpark, matplotlib, pandas
